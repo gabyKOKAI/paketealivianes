@@ -1,0 +1,15 @@
+[09-Aug-2016 18:51:51 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 18:56:57 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 18:57:40 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 19:02:03 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[11-Aug-2016 21:32:00] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/paketeal/public_html/laravel/pakete-master/artisan on line 34
+[11-Aug-2016 21:32:00] PHP Parse error:  syntax error, unexpected T_STRING in /home2/paketeal/public_html/laravel/pakete-master/artisan on line 34
+[01-Nov-2016 13:12:57] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:14:20] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:14:58] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:19:09] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:23:12] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:26:11] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:26:21] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:36:30] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23
+[01-Nov-2016 13:39:35] PHP Fatal error:  Class 'Phar' not found in /home2/paketeal/public_html/laravel/pakete-master/composer.phar on line 23

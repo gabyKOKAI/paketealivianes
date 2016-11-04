@@ -1,0 +1,324 @@
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/http.so' - /usr/php/56/usr/lib64/php/modules/http.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:35 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 20:52:35 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/http.so' - /usr/php/56/usr/lib64/php/modules/http.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 20:52:51 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/http.so' - /usr/php/56/usr/lib64/php/modules/http.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 20:52:51 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 20:52:51 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/http.so' - /usr/php/56/usr/lib64/php/modules/http.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Jul-2016 21:08:30 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[30-Jul-2016 21:08:30 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[31-Jul-2016 07:53:36 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[31-Jul-2016 07:53:36 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[31-Jul-2016 07:53:36 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[31-Jul-2016 07:53:36 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[04-Aug-2016 19:29:32 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[04-Aug-2016 19:29:32 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 20:38:21 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 20:38:21 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 20:52:44 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[09-Aug-2016 20:52:44 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[11-Aug-2016 18:04:45 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[11-Aug-2016 18:04:45 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[11-Aug-2016 18:15:32 America/Denver] PHP Warning:  require(/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[11-Aug-2016 18:15:32 America/Denver] PHP Fatal error:  require(): Failed opening required '/home2/paketeal/public_html/laravel/pakete-master/bootstrap/../vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/paketeal/public_html/laravel/pakete-master/bootstrap/autoload.php on line 17
+[11-Aug-2016 20:13:03 America/Denver] PHP Fatal error:  Class 'PHPExcel_Shared_Font' not found in /home2/paketeal/public_html/laravel/pakete-master/config/excel.php on line 174
+[12-Sep-2016 08:15:04 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\App\User' not found in /home2/paketeal/public_html/laravel/pakete-master/app/Http/Controllers/UsersController.php on line 93
+[12-Sep-2016 08:15:06 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\App\User' not found in /home2/paketeal/public_html/laravel/pakete-master/app/Http/Controllers/UsersController.php on line 93
+[06-Oct-2016 20:52:40 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\App\User' not found in /home2/paketeal/public_html/laravel/pakete-master/app/Http/Controllers/UsersController.php on line 93
+[01-Nov-2016 14:15:21 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\App\User' not found in /home2/paketeal/public_html/laravel/pakete-master/app/Http/Controllers/UsersController.php on line 93
+[01-Nov-2016 14:36:58 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:58 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:58 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:58 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:58 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:36:59 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:04 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:05 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:05 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:05 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:05 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:05 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:06 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:06 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:06 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:06 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:06 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:09 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:09 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:09 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:09 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:09 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:54 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:54 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:54 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:54 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Nov-2016 14:37:54 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0

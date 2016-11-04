@@ -1,0 +1,3 @@
+[31-Jul-2016 08:04:31 America/Denver] PHP Fatal error:  Call to undefined function storage_path() in /home2/paketeal/public_html/laravel/pakete-master/config/database.php on line 51
+[31-Jul-2016 08:04:31 America/Denver] PHP Fatal error:  Call to undefined function storage_path() in /home2/paketeal/public_html/laravel/pakete-master/config/database.php on line 51
+[31-Jul-2016 08:04:43 America/Denver] PHP Fatal error:  Call to undefined function storage_path() in /home2/paketeal/public_html/laravel/pakete-master/config/database.php on line 51
