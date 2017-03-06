@@ -8,6 +8,7 @@
 			{!!Form::open(array('url'=>'entry'))!!}
 				<h1 id="registro"> Registro de Horas </h1>
 				<br/>				
+				{!!Form::hidden(csrf_token()) !!}
 				{!!Form::hidden('latitude', '', array('id'=>'latitude'))!!}
 				{!!Form::hidden('longitude', '', array('id'=>'longitude'))!!}
 				{!!Form::submit ('Registrar Entrada', array('class'=>'btn btn-primary btn-lg'))!!} 

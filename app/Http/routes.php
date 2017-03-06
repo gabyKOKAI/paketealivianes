@@ -70,7 +70,7 @@ Route::post('/contacto',
 		Mail::send('mailcontacto', $data, function($message) use($data)
 		{
 			$message->to('anapolavarrieta@gmail.com', 'Ana Paula')
-					->subject('Nueva información de contacto');
+					->subject('Nueva informaci??n de contacto');
 		});
 
 		return View::make('gracias');
@@ -203,11 +203,14 @@ Route::post('/entry',function()
 		$register->type='entry';
 	}
 	elseif($register->lat == 0 && $register->lon == 0){
+		
 		$register->type='error en direccion';
-		$flag= "Para poder registrar tu entrada es necesario habilitar la opción Share Location";
 	}
 	else{
 		$register->type='other_entry';
+	}
+	if($register->lat == 0 && $register->lon ==0){
+		$flag= "Es necesario habilitar la opcion Share location";
 	}
 	$register->date= date("Y-m-d");
 	$register->time= date("G:i:s");
@@ -230,7 +233,7 @@ Route::post('/exit',function()
 	}
 	elseif($register->lat == 0 && $register->lon == 0){
 		$register->type='error en direccion';
-		$flag= "Para poder registrar tu salida es necesario habilitar la opción Share Location";
+		$flag= "Para poder registrar tu salida es necesario habilitar la opci??n Share Location";
 	}
 	else{
 		$register->type='other_exit';
